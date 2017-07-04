@@ -9,5 +9,5 @@ To help reduce the skills gap, and increase the quality of developers locally, w
 
 ## Project List
 
-1. Coding 101
+1. [Coding 101](https://github.com/devcenter-square/coding101/wiki/Coding-101-%7C-Learn-by-Doing)
 2. _more coming soon_
